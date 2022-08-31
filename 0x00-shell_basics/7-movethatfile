@@ -1,2 +1,2 @@
-#!/bin/ba
+#!/bin/bash
 cd /tmp/ #! mv betty /tmp/my_first_directory
