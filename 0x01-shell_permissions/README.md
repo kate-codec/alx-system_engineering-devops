@@ -13,7 +13,7 @@ Exercise 5: chmod u+x hello Add execute permission to the owner of the file hell
 
 Exercise 6: chmod ug+x,o+r hello Add execute permission to user and group owner, and read permission to others for file hello
 
-Exercise 7: chmod ugo+x hello Add execution permission to all for file hello.
+Exercise 7: chmod ugo+x hello (or) chmod +x hello Add execution permission to all for file hello.
 
 Exercise 8: chmod 007 hello Set permissions for file hello so owner and group don't have any permissions and other users have all permissions.
 
